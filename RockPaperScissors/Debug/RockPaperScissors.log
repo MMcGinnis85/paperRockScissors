@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  RockPaperScissors.cpp
+c:\users\ginny\source\repos\rockpaperscissors\rockpaperscissors\rockpaperscissors.cpp(22): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\ginny\source\repos\rockpaperscissors\rockpaperscissors\rockpaperscissors.cpp(43): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\ginny\source\repos\rockpaperscissors\rockpaperscissors\rockpaperscissors.cpp(30): warning C4930: 'std::string getFileContents(std::ifstream &)': prototyped function not called (was a variable definition intended?)
+  RockPaperScissors.vcxproj -> C:\Users\ginny\source\repos\RockPaperScissors\Debug\RockPaperScissors.exe
